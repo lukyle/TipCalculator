@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Initially installing XCode and setting up the project took quite a while. In addition, I had to get used to learning and writing Swift code.
+Initially installing XCode and setting up the project took quite a while. In addition, I had to get used to learning and writing Swift code. This was a fun beginner project!
 
 ## License
 
